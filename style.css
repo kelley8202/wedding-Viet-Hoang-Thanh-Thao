@@ -1,0 +1,16 @@
+body{
+    background-color: #8F1720;
+}
+h1,h2,h3,h4,h5,h6,p,caption,th,td{
+    color: #fff !important;
+}
+
+.grid section-bg-img{
+    background-color: #8F1720 !important;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    html{
+        width: 200%;
+    }
+}
